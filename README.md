@@ -1,6 +1,6 @@
 <!-- 🕹️ Retro Intro: PRESS START -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=👾+INSERT+COIN+👾;PRESS+START+TO+ENTER;LOADING...;WELCOME+PLAYER+1" alt="Retro Intro Typing Effect" />
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=+INSERT+COIN+;PRESS+START+TO+ENTER;LOADING...;WELCOME+PLAYER+1" alt="Retro Intro Typing Effect" />
 </p>
 
 <!-- 🕹️ Pixel Loading Bar -->
