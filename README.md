@@ -77,7 +77,7 @@
 
 <!-- 🪐 Retro Outro: GAME OVER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=👾+GOODBYE+WORLD!+👾;PRESS+START+TO+EXIT;GAME+OVER+💀" alt="Goodbye World retro style" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=+GOODBYE+WORLD!+;PRESS+START+TO+EXIT;GAME+OVER+" alt="Goodbye World retro style" />
 </p>
 
 <!-- 🪐 Pixel Line Divider -->
@@ -92,5 +92,5 @@
 
 <p align="center">
   <i>“Every game has an end — but every line of code starts a new adventure.”</i><br>
-  <strong>~ Quang's Retro World 👾</strong>
+  <strong>~ Quang's Retro World </strong>
 </p>
